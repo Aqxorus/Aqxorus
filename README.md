@@ -5,6 +5,6 @@
 
 ### Stats:
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aqxorus&layout=compact&card_width=445&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://3v4n-profile.vercel.app/api/top-langs/?username=aqxorus&layout=compact&card_width=445&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=aqxorus&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://3v4n-profile.vercel.app/api?username=aqxorus&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
