@@ -13,6 +13,6 @@
 
 ---
 
-## Recent Activity
+## Spotify Activity
 
-<!--START_SECTION:activity-->
+[![Spotify](https://3v4n-spotify.vercel.app/api/spotify/?border_color=FFFFFF)](https://open.spotify.com/user/USER_NAME)
