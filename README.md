@@ -1,4 +1,4 @@
-## Hello I'm 3v4n and I create discord bots.
+## Hello I'm 3v4n and I create very bad discord bots.
 
 - 🎮 I love playing video games
 - Currently learning [D.JS](https://discord.js.org) and [HTML](https://www.w3schools.com/html/default.asp)/[CSS](https://www.w3schools.com/css/default.asp)
