@@ -15,4 +15,4 @@
 
 ## Spotify Activity
 
-[![Spotify](https://3v4n-spotify.vercel.app/api/spotify/?background_color=0d1117&border_color=FFFFFF)](https://redacted.com)
+[![Spotify](https://3v4n-spotify.vercel.app/api/spotify/?background_color=0e1117&border_color=FFFFFF)](https://redacted.com)
