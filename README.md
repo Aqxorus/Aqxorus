@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 👨‍💻 All of my projects are available at [aqxorus.github.io](https://aqxorus.github.io)
+- 👨‍💻 All of my projects are available at [aqxorus.github.io](https://aqxorus.github.io/main)
 
 - ⚡ Fun fact **e.**
 
