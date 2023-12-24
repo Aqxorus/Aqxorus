@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [aqxorus.github.io](https://aqxorus.github.io)
 
-- ⚡ Fun fact **I love video games**
+- ⚡ Fun fact **e.**
 
 <h3 align="left">Languages and Tools:</h3>
 
