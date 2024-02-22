@@ -3,9 +3,9 @@
 
 <h3>Stats:</h3>
 
-[![Top Languages](https://github-readme-stats-one-kappa-90.vercel.app/api/top-langs/?username=aqxorus&layout=compact&card_width=445&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats-one-kappa-90.vercel.app/api/top-langs/?username=aqxorus&layout=compact&card_width=500&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Stats](https://github-readme-stats-one-kappa-90.vercel.app/api?username=aqxorus&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats-one-kappa-90.vercel.app/api?username=aqxorus&count_private=true&show_icons=true&card_width=500&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>Spotify Activity:</h3>
 
