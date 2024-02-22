@@ -9,7 +9,7 @@
 
 <h3>Spotify Activity:</h3>
 
-[![Spotify](https://3v4n-spotify.vercel.app/api/spotify/?background_color=0e1117&border_color=FFFFFF)](https://redacted.com)
+[![Spotify](https://novatorem-aqxorus.vercel.app/api/spotify)](https://open.spotify.com)
 
 ---
 
