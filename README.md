@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="150" src="https://aqxorus.github.io/mainv2/assets/profile-pic-main.png"  />
-</div>
-
 ###
 
 <div align="center">
