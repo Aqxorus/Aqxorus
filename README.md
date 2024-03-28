@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm Ev4n from New Zealand 🇳🇿<br><br>- 📚 I'm currently learning C++<br>- ⚡ In my free time I make stuff</p>
+<p align="left">I'm 3v4n from New Zealand 🇳🇿<br><br>- 📚 I'm currently learning C++<br>- ⚡ In my free time I make stuff</p>
 
 ###
 
