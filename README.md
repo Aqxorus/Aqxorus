@@ -56,6 +56,8 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
+[![Discord Status](https://lanyard.cnrad.dev/api/598624275083034654)](https://discord.com/users/598624275083034654)
+
 [![Spotify](https://novatorem-aqxorus.vercel.app/api/spotify)](https://open.spotify.com)
 
 [![Top Languages](https://github-readme-stats-one-kappa-90.vercel.app/api/top-langs/?username=aqxorus&layout=compact&card_width=500&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
