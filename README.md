@@ -40,7 +40,7 @@ I'm Ev4n from New Zealand 🇳🇿
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aqxorus&card_width=550&theme=blue_navy&hide_border=true" />
+<img src="https://aqxorus-streak-stats.vercel.app/?user=aqxorus&card_width=550&theme=blue_navy&hide_border=true" />
 </div>
 
 ---
