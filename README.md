@@ -23,11 +23,11 @@
 </div>
 
 <div align="center">
-<img src="https://aqxorus-stats.vercel.app/api/top-langs/?username=aqxorus&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+<img src="https://aqxorus-stats.vercel.app/api/top-langs/?username=aqxorus&theme=blue_navy&card_width=600&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
 <div align="center">
-<img src="https://aqxorus-stats.vercel.app/api?username=aqxorus&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true" />
+<img src="https://aqxorus-stats.vercel.app/api?username=aqxorus&theme=blue_navy&card_width=600&hide_border=true&include_all_commits=true&count_private=true" />
 </div>
 
 <div align="center">
