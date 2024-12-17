@@ -24,25 +24,37 @@ I'm Ev4n from New Zealand 🇳🇿
 ### 🔥 My Stats:
 
 <div align="center">
+<a href="https://lanyard.cnrad.dev/">
 <img src="https://lanyard.cnrad.dev/api/598624275083034654" />
+</a>
 </div>
 
 <div align="center">
+<a href="https://spotify.com">
 <img src="https://aqxorus-spotify.vercel.app/api/spotify" />
+</a>
 </div>
 
 <div align="center">
+<a href="https://github.com/Aqxorus/github-readme-stats">
 <img src="https://aqxorus-stats.vercel.app/api/top-langs/?username=aqxorus&theme=blue_navy&card_width=550&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</a>
 </div>
 
 <div align="center">
+<a href="https://github.com/Aqxorus/github-readme-stats">
 <img src="https://aqxorus-stats.vercel.app/api?username=aqxorus&theme=blue_navy&hide_rank=true&card_width=550&hide_border=true&include_all_commits=true&count_private=true" />
+</a>
 </div>
 
 <div align="center">
+<a href="https://github.com/Aqxorus/github-readme-streak-stats">
 <img src="https://aqxorus-streak-stats.vercel.app/?user=aqxorus&card_width=550&theme=blue_navy&hide_border=true" />
+</a>
 </div>
 
 ---
 
+<a href="https://github.com/Aqxorus">
 <img src="https://visitcount.itsvg.in/api?id=aqxorus&icon=5&color=12" />
+</a>
