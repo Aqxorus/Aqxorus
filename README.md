@@ -48,7 +48,7 @@ I'm Ev4n from New Zealand 🇳🇿
 </div>
 
 <div align="center">
-<a href="https://github.com/Aqxorus/github-readme-streak-stats">
+<a href="https://github.com/Aqxorus/streak-stats">
 <img src="https://aqxorus-streak-stats.vercel.app/?user=aqxorus&card_width=550&theme=blue_navy&hide_border=true" />
 </a>
 </div>
