@@ -2,19 +2,19 @@
 
 ###
 
-<h3 align="left">about me</h3>
+<h3 align="center">about me</h3>
 
 ###
 
-<p align="left">A developer from New Zealand 🇳🇿</p>
+<p align="center">A developer from New Zealand 🇳🇿</p>
 
 ###
 
-<h3 align="left">tech stack</h3>
+<h3 align="center">tech stack</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
@@ -70,7 +70,7 @@
 
 ###
 
-<h3 align="left">stats</h3>
+<h3 align="center">stats</h3>
 
 ###
 
