@@ -22,7 +22,7 @@
 
 <div align="center">
 <a href="https://spotify.com">
-<img src="https://aqxorus-spotify.vercel.app/api/orchestrator" />
+<img src="https://aqxorus-spotify.vercel.app/api/orchestrator?background_type=blur_dark&border_color=ffffff" />
 </a>
 </div>
 
