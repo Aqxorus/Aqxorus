@@ -1,28 +1,14 @@
 <h1 align="center">hey there 👋</h1>
 
-###
-
 <h3 align="center">about me</h3>
-
-###
 
 <p align="center">A developer from New Zealand 🇳🇿</p>
 
-###
-
 <h3 align="center">stats</h3>
-
-###
 
 <div align="center">
 <a href="https://lanyard.cnrad.dev/">
 <img src="https://lanyard.cnrad.dev/api/598624275083034654" />
-</a>
-</div>
-
-<div align="center">
-<a href="https://spotify.com">
-<img src="https://aqxorus-spotify.vercel.app/api/orchestrator?background_type=blur_dark&border_color=ffffff" />
 </a>
 </div>
 
@@ -48,4 +34,8 @@
 <img src="https://raw.githubusercontent.com/aqxorus/aqxorus/output/snake.svg" alt="Snake animation" />
 </div>
 
-###
+<div align="center">
+<a href="https://spotify.com">
+<img src="https://aqxorus-spotify.vercel.app/api/orchestrator?background_type=blur_dark&border_color=ffffff" />
+</a>
+</div>
