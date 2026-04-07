@@ -1,9 +1,5 @@
 <h1 align="center">hey there 👋</h1>
 
-<h3 align="center">about me</h3>
-
-<p align="center">A developer from New Zealand 🇳🇿</p>
-
 <h3 align="center">stats</h3>
 
 <div align="center">
