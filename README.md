@@ -35,7 +35,7 @@
 </div>
 
 <div align="center">
-<a href="https://spotify.com">
+<a href="https://tidal.com">
 <img src="https://aqxorus-spotify.vercel.app/api/orchestrator?background_type=blur_dark" />
 </a>
 </div>
